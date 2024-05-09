@@ -1,4 +1,4 @@
-package Interviewround;
+package OverloadingDicussion;
 
 public class Vowels 
 {
@@ -6,7 +6,6 @@ public class Vowels
 	{
 		String s= " Good Morning";
 		int count =0;
-		//int ccnt=0;
 		
 		s=s.toLowerCase();
 		
@@ -22,10 +21,8 @@ public class Vowels
 			}
 			
 			System.out.println(count);
-			
-			//System.out.println("No of vowels are:"+ccnt+" thank you");
 		}
 		
-	
 	}
+
 }
